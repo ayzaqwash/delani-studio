@@ -68,3 +68,16 @@
   .whats-offered .headings{
     padding-bottom: 40px;
   }
+ 
+  .contact{
+    background-image: url('images/background1.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  .portfolio h2{
+    text-align: center;
+    padding-top:40px;
+    font-family: 'Gabriela', serif;
+  }
