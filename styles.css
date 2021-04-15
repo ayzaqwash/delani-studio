@@ -98,3 +98,23 @@
     padding-bottom: 20px;
     font-family: 'Gabriela', serif;
   }
+  #MAIL{
+    width: 30%;
+  }
+  #message{
+    margin-left: 20%;
+    width: 60%;
+  }
+  button{
+    margin-left: 20%;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+  }
+  .form-control::-webkit-input-placeholder { 
+    color: white; 
+  }
+  #IDENTITY{
+    width: 30%;
+    margin-left: 18%;
+    margin-right: 18%px;
+  }
