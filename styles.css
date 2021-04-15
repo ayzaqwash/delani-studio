@@ -76,8 +76,25 @@
     background-repeat: no-repeat;
     color: white;
   }
-  .portfolio h2{
+  /* .portfolio h2{
     text-align: center;
     padding-top:40px;
+    font-family: 'Gabriela', serif;
+  } */
+  input[type=text],input[type=email],#comment{
+    background: transparent;
+    color: white;
+    font-size: 30px;
+    width: 30%;
+    font-family: 'Copse', serif;
+  }
+  .title{
+    padding: 5px;
+  }
+  .contact h2{
+    text-align: center;
+    margin-top: 25px;
+    padding-top: 38px;
+    padding-bottom: 20px;
     font-family: 'Gabriela', serif;
   }
