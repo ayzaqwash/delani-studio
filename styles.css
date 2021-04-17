@@ -1,3 +1,7 @@
+@import url("https://fonts.google.com/");
+html{
+  scroll-behavior: smooth;
+}
 .heading {
   background-image: url(images/background2.jpg);
   background-position: center center;
