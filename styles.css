@@ -227,3 +227,13 @@ footer p {
       margin-right: 10%;
     };
   }
+  /* #MAIL {
+    float: right;
+    margin-bottom: 500px;
+  } */
+  #IDENTITY {
+    float: left;
+  }
+  #MAIL {
+    float: right;
+  }
