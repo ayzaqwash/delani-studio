@@ -47,3 +47,56 @@ $(document).ready(function(){
     });
   
   });
+
+$(document).ready(function(){
+    $("#port1").mouseover(function(){
+      $("#lab1").show();
+    }).mouseout(function(){
+      $("#lab1").hide();
+    });
+  });
+  $(document).ready(function(){
+    $("#port2").mouseover(function(){
+      $("#lab2").show();
+    }).mouseout(function(){
+      $("#lab2").hide();
+    });
+  });
+  $(document).ready(function(){
+    $("#port3").mouseover(function(){
+      $("#lab3").show();
+    }).mouseout(function(){
+      $("#lab3").hide();
+    });
+  });
+  $(document).ready(function(){
+    $("#port4").mouseover(function(){
+      $("#lab4").show();
+    }).mouseout(function(){
+      $("#lab4").hide();
+    });
+  });
+  
+  $(document).ready(function(){
+    $("#port5").mouseover(function(){
+      $("#lab5").show();
+    }).mouseout(function(){
+      $("#lab5").hide();
+    });
+    $("#port6").mouseover(function(){
+      $("#lab6").show();
+    }).mouseout(function(){
+      $("#lab6").hide();
+    });
+    $("#port7").mouseover(function(){
+      $("#lab7").show();
+    }).mouseout(function(){
+      $("#lab7").hide();
+    });
+    $("#port8").mouseover(function(){
+      $("#lab8").show();
+    }).mouseout(function(){
+      $("#lab8").hide();
+    });
+  });
+  
