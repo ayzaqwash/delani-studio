@@ -11,6 +11,7 @@ html{
   text-align: center;
   padding-top: 17%;
   font-family: 'Gabriela', serif;
+  background-size: 80%;
 }
 
 .heading h1 {
@@ -48,6 +49,7 @@ html{
   padding-top: 40px;
   font-family: sans-serif;
   font-size: medium;
+  background-size: 80%;
 }
 
 .services {
@@ -59,10 +61,10 @@ html{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: smaller;
   text-align: center;
+  background-size: 80%;
 }
 
 #servicesoffered {
-  background-color: rgba(0, 0, 0, 0.4);
   padding-top: 5%;
   padding-bottom: 5%;
 }
@@ -116,6 +118,7 @@ input[type=email],
   margin-left: 20%;
   width: 60%;
   background: transparent;
+  height: 60%;
 }
 
 button {
@@ -136,11 +139,6 @@ button {
   margin-right: 18%;
   width: 50%;
 }
-
-/* col-md-3 img {
-  max-width: 100%;
-  max-height: 100%;
-} */
 
 .portfolio h2 {
   text-align: center;
@@ -171,12 +169,6 @@ button {
   text-align: center;
 }
 
-/* .form-group {
-  display: inline-block;
-  height: 1.2rem;
-  line-height: 1.2rem;
-  vertical-align: middle;
-} */
 footer {
   text-align: center;
   padding-top: 30px;
@@ -197,11 +189,6 @@ footer p {
     font-size: 26px;
   }
 
-  .col-md-3 img {
-    width: 400px;
-    margin: 20px;
-  }
-
   #portfolio {
     margin-left: 6%;
     margin-right: 10%;
@@ -217,20 +204,11 @@ footer p {
       padding-top: 30%;
     }
 
-    .col-md-3 img {
-      width: 400px;
-      margin: 20px;
-    }
-
     #portfolio {
       margin-left: 10%;
       margin-right: 10%;
     };
   }
-  /* #MAIL {
-    float: right;
-    margin-bottom: 500px;
-  } */
   #IDENTITY {
     float: left;
   }
