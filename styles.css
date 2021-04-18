@@ -90,11 +90,6 @@ html{
   height: 60%;
 }
 
-/* .portfolio h2{
-    text-align: center;
-    padding-top:40px;
-    font-family: 'Gabriela', serif;
-  } */
 input[type=text],
 input[type=email],
 #message {
@@ -171,14 +166,6 @@ button {
   font-weight: 600;
 }
 
-/* #lab1,#lab2,#lab3,#lab4,#lab5,#lab6,#lab7,#lab8 {
-  display: none;
-  color: black;
-  width: 100%;
-  height: 100%;
-  background-color: rgb(116, 147, 240);
-  text-align: center;
-} */
 
 footer {
   text-align: center;
@@ -200,11 +187,6 @@ footer p {
     font-size: 26px;
   }
   }
-  /* #port1,#port2,#port3,#port4,#port5,#port6,#port7,#port8 {
-    margin: 5px;
-    width: 10%;
-    height: min-content;
-  } */
 
   #portfolio {
     margin-left: 10%;
@@ -220,10 +202,6 @@ footer p {
       padding-top: 30%;
     }
 
-    /* #portfolio {
-      margin-left: 10%;
-      margin-right: 10%;
-    }; */
   }
   #IDENTITY {
     float: left;
