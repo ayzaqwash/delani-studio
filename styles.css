@@ -209,10 +209,10 @@ footer p {
       padding-top: 30%;
     }
 
-    #portfolio {
+    /* #portfolio {
       margin-left: 10%;
       margin-right: 10%;
-    };
+    }; */
   }
   #IDENTITY {
     float: left;
@@ -226,6 +226,8 @@ footer p {
     grid-row-gap: 50px;
     grid-template-columns: auto auto auto auto;
     padding: 10px;
+    width: 70%;
+    align-self: center;
   }
   
   .grid-item {
