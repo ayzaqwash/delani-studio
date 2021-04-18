@@ -154,6 +154,28 @@ $(document).ready(function () {
 
   $(document).ready(function () {
 
+    $( "#portfolio6" ).hover(
+      function() {
+          $("#textSpan6").show();
+      }, function() {
+          $("#textSpan6").hide();
+      }
+    );
+  });
+
+  $(document).ready(function () {
+
+    $( "#portfolio7" ).hover(
+      function() {
+          $("#textSpan7").show();
+      }, function() {
+          $("#textSpan7").hide();
+      }
+    );
+  });
+
+  $(document).ready(function () {
+
     $( "#portfolio8" ).hover(
       function() {
           $("#textSpan8").show();
