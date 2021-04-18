@@ -100,9 +100,75 @@ $(document).ready(function(){
 //     });
 //   });
   
-  $("#portfolio").hover(function(){
-    $(this).animate({opacity:'1'});
-  },
-  function(){
-    $(this).animate({opacity:'0'});
-  })
+//   $("#portfolio").hover(function(){
+//     $(this).animate({opacity:'1'});
+//   },
+//   function(){
+//     $(this).animate({opacity:'0'});
+//   })
+$(document).ready(function () {
+
+  $( "#portfolio2" ).hover(
+    function() {
+        $("#textSpan").show();
+    }, function() {
+        $("#textSpan").hide();
+    }
+  );
+});
+
+
+$(document).ready(function () {
+
+    $( "#portfolio3" ).hover(
+      function() {
+          $("#textSpan3").show();
+      }, function() {
+          $("#textSpan3").hide();
+      }
+    );
+  });
+
+
+  $(document).ready(function () {
+
+    $( "#portfolio4" ).hover(
+      function() {
+          $("#textSpan4").show();
+      }, function() {
+          $("#textSpan4").hide();
+      }
+    );
+  });
+
+  $(document).ready(function () {
+
+    $( "#portfolio5" ).hover(
+      function() {
+          $("#textSpan5").show();
+      }, function() {
+          $("#textSpan5").hide();
+      }
+    );
+  });
+
+  $(document).ready(function () {
+
+    $( "#portfolio8" ).hover(
+      function() {
+          $("#textSpan8").show();
+      }, function() {
+          $("#textSpan8").hide();
+      }
+    );
+  });
+  $(document).ready(function () {
+
+    $( "#portfolio9" ).hover(
+      function() {
+          $("#textSpan9").show();
+      }, function() {
+          $("#textSpan9").hide();
+      }
+    );
+  });
